@@ -1,0 +1,28 @@
+Enter System
+Start Test
+Current URL: https://demoqa.com/automation-practice-form
+URL Assertion Confirmed
+First Name: Edgar
+Last Name: Brutyan
+Email: edbrutyan@yandex.ru
+Button Name Assertion: Male
+Gender: Male
+Phone Number: 1234567890
+Click on Calendar
+Selected Year: 1976
+Selected Month: october
+Selected Date: 22
+Subject Field: Comp
+Subject: Computer Science
+File Uploaded Successfully
+Inserted Address: Russian Federation, city of Moscow
+Click on State Dropdown
+Selected State: Uttar Pradesh
+Click on City Dropdown
+City: Lucknow
+Click on Submit Button
+Page Name Assertion: Thanks for submitting the form
+Screenshot Complete: screenshot_2024.07.19.11.10.png
+Thanks for submitting the form!
+Finish Test
+Exit System
